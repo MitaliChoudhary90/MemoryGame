@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width:400px;
+    margin: auto;
+    border: 10px solid rgb(141, 169, 244);
+}
+body{
+    background-color: thistle;
+    margin: 10px;
+    text-align: center;
+}
